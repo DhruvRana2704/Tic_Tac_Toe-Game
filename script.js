@@ -32,6 +32,7 @@ const enableboxes=()=>
     {
         box.disabled=false;
         box.innerText="";
+        count=0;
     }
 };
 const disableboxes=()=>
